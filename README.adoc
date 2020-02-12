@@ -58,7 +58,7 @@ like Etherpad and Gogs
 == Deploy the Workshop Infrastructure using the Operator
 
 The Workshop Infrastructure is deployed by creating a Custom Resource based on the **WorkShop** Custom Resource Definition. 
-There is examples of custom resources (CR) in https://github.com/mcouliba/openshift-workshop-operator/tree/master/deploy/crds[crds]
+There is examples of custom resources (CR) in https://github.com/alexgroom/dublin-operator/tree/master/deploy/crds[crds]
 
 For instance, to deploy the Workshop Infrastruture for the Cloud-Native Workshop,
 please execute the following command:

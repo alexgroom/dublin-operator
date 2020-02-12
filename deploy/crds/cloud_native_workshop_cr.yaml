@@ -7,7 +7,7 @@ spec:
     number: 30
     password: openshift
   source:
-    gitURL: https://github.com/mcouliba/cloud-native-workshop
+    gitURL: https://github.com/alexgroom/dublin-workshop
     gitBranch: master
   infrastructure:
     che:
